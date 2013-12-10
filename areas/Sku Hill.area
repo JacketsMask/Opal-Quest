@@ -1,0 +1,38 @@
+(iAreaModule
+Area
+p0
+(dp1
+S'long_desc'
+p2
+S'You approach Sku Hill. As usual, other scholars are playing music out of their windows at an staggering volume. You make a mental note to curse their instruments when your quest is over.'
+p3
+sS'short_desc'
+p4
+S'You recognize the building ahead as the one that you live in. It is quite wide and made of red stones.'
+p5
+sS'name'
+p6
+S'Sku Hill'
+p7
+sS'exits'
+p8
+(dp9
+S'west'
+p10
+S'Hall of Ancient Arts'
+p11
+sS'east'
+p12
+S'Hall of Feasts'
+p13
+sS'north'
+p14
+S'The Chamber of Ceremonies'
+p15
+sS'south'
+p16
+NssS'inside_desc'
+p17
+S'This is the place you call home. While comforting, wasting time here will not help you in your quest.'
+p18
+sb.

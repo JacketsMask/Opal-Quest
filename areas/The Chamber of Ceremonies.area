@@ -1,0 +1,40 @@
+(iAreaModule
+Area
+p0
+(dp1
+S'long_desc'
+p2
+S"This is the place where the events and diversions are held, to distract from the crushing pressure of scholars' studies."
+p3
+sS'short_desc'
+p4
+S'There is a massive, many-leveled, sprawling building ahead.'
+p5
+sS'name'
+p6
+S'The Chamber of Ceremonies'
+p7
+sS'exits'
+p8
+(dp9
+S'west'
+p10
+S'The Northlands'
+p11
+sS'east'
+p12
+S'The Well'
+p13
+sS'north'
+p14
+S"The Scholars' Council"
+p15
+sS'south'
+p16
+S'Sku Hill'
+p17
+ssS'inside_desc'
+p18
+S'You enter the building and roam through its many floors. You note the couches on the ground floor will do well for napping later. For now, you should leave and continue on your quest.'
+p19
+sb.

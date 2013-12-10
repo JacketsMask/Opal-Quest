@@ -1,0 +1,38 @@
+(iAreaModule
+Area
+p0
+(dp1
+S'long_desc'
+p2
+S'You walk onto the field. Several other scholars are laying around the edge and pretending to study. You do not understand the bright light coming from the sky that they seem to enjoy; being only used to the glow of your computation machine.'
+p3
+sS'short_desc'
+p4
+S'There is a small field here; a patch of nature in an otherwise unnatural landscape of metal and stone.'
+p5
+sS'name'
+p6
+S'Field'
+p7
+sS'exits'
+p8
+(dp9
+S'west'
+p10
+S'Majestic Center for Human Sacrifices'
+p11
+sS'east'
+p12
+S'The Labyrinth of Hearts'
+p13
+sS'north'
+p14
+S'Hall of Knowledge'
+p15
+sS'south'
+p16
+S"The Scholars' Council"
+p17
+ssS'inside_desc'
+p18
+Nsb.

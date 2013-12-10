@@ -1,0 +1,40 @@
+(iAreaModule
+Area
+p0
+(dp1
+S'long_desc'
+p2
+S"This is The Scholars' Council, where the Gatekeepers live and decide which scholars study here. Fortunately, you have already been granted access."
+p3
+sS'short_desc'
+p4
+S'There is a tall building capped by a great glass pyramid.'
+p5
+sS'name'
+p6
+S"The Scholars' Council"
+p7
+sS'exits'
+p8
+(dp9
+S'west'
+p10
+S'Twin Castle'
+p11
+sS'east'
+p12
+S'Red Castle'
+p13
+sS'north'
+p14
+S'Field'
+p15
+sS'south'
+p16
+S'The Chamber of Ceremonies'
+p17
+ssS'inside_desc'
+p18
+S"You enter the building. There doesn't seem to be much of interest in here."
+p19
+sb.

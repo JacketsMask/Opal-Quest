@@ -1,0 +1,36 @@
+(iAreaModule
+Area
+p0
+(dp1
+S'long_desc'
+p2
+S'You approach the Hall of Ancient Arts. Students outside are smoking and speaking foreign tongues.'
+p3
+sS'short_desc'
+p4
+S'There is an old and decrepit-looking building ahead, tucked away below a winding path.'
+p5
+sS'name'
+p6
+S'Hall of Ancient Arts'
+p7
+sS'exits'
+p8
+(dp9
+S'west'
+p10
+NsS'east'
+p11
+S'Sku Hill'
+p12
+sS'north'
+p13
+S'The Northlands'
+p14
+sS'south'
+p15
+NssS'inside_desc'
+p16
+S'This building seems on the verge of collapsing. Worse than that, there are no computation machines in here.'
+p17
+sb.

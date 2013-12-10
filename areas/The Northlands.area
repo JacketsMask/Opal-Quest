@@ -1,0 +1,38 @@
+(iAreaModule
+Area
+p0
+(dp1
+S'long_desc'
+p2
+S'You approach the Northlands. You do not know much about the place, but it is rumored that buried deep in the building, there is a secret office that fixes computation machines.'
+p3
+sS'short_desc'
+p4
+S'There is a small, squat building in this direction.'
+p5
+sS'name'
+p6
+S'The Northlands'
+p7
+sS'exits'
+p8
+(dp9
+S'west'
+p10
+NsS'east'
+p11
+S'The Chamber of Ceremonies'
+p12
+sS'north'
+p13
+S'Twin Castle'
+p14
+sS'south'
+p15
+S'Hall of Ancient Arts'
+p16
+ssS'inside_desc'
+p17
+S'You sneak through the locked door behind another scholar. After looking around, you determine that there is nothing you need in here.'
+p18
+sb.

@@ -1,0 +1,38 @@
+(iAreaModule
+Area
+p0
+(dp1
+S'long_desc'
+p2
+S'As you approach the Twin Castle, you feel wary. You know what is waiting for you inside.'
+p3
+sS'short_desc'
+p4
+S'This building looks very similar to the Red Castle, but is clearly inferior.'
+p5
+sS'name'
+p6
+S'Twin Castle'
+p7
+sS'exits'
+p8
+(dp9
+S'west'
+p10
+NsS'east'
+p11
+S"The Scholars' Council"
+p12
+sS'north'
+p13
+S'Majestic Center for Human Sacrifices'
+p14
+sS'south'
+p15
+S'The Northlands'
+p16
+ssS'inside_desc'
+p17
+S'You enter the building and are filled with a sense of anxiety. You should make sure you are fully prepared before going any further.'
+p18
+sb.

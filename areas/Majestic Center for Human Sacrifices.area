@@ -1,0 +1,38 @@
+(iAreaModule
+Area
+p0
+(dp1
+S'long_desc'
+p2
+S'You approach the Majestic Center for Human Sacrifices. The building looks even larger up close. There is an entrance near the observatory.'
+p3
+sS'short_desc'
+p4
+S'There is an impressively large building with a glass observatory. There are rumors that apprentices there study the mysteries of the human body through dark means.'
+p5
+sS'name'
+p6
+S'Majestic Center for Human Sacrifices'
+p7
+sS'exits'
+p8
+(dp9
+S'west'
+p10
+NsS'east'
+p11
+S'Field'
+p12
+sS'north'
+p13
+S'Black Wasteland'
+p14
+sS'south'
+p15
+S'Twin Castle'
+p16
+ssS'inside_desc'
+p17
+S'You enter the building. You are certain that what you are looking for will not be found here.'
+p18
+sb.

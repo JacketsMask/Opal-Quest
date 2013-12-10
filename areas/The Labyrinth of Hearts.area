@@ -1,0 +1,38 @@
+(iAreaModule
+Area
+p0
+(dp1
+S'long_desc'
+p2
+S"You approach the Labyrinth of Hearts. An anxious-looking young man sits outside, muttering to himself about out of control forces and collisions. You think it's best to avoid him."
+p3
+sS'short_desc'
+p4
+S'There is a wide building with a number of entrances and exits. Designed to trap and confuse scholars, it is a place of dark experiments and a search for hidden knowledge. Navigating this building is not for the faint of heart.'
+p5
+sS'name'
+p6
+S'The Labyrinth of Hearts'
+p7
+sS'exits'
+p8
+(dp9
+S'west'
+p10
+S'Field'
+p11
+sS'east'
+p12
+NsS'north'
+p13
+S'Black Desert'
+p14
+sS'south'
+p15
+S'Red Castle'
+p16
+ssS'inside_desc'
+p17
+S'You feel like if you try to go any farther into the building, you will get lost. You should turn back now.'
+p18
+sb.

@@ -1,0 +1,38 @@
+(iAreaModule
+Area
+p0
+(dp1
+S'long_desc'
+p2
+S'You walk up the sloped ramp to the entrance to the Red Castle. This is where the Wise Masters in your course of study can be found.'
+p3
+sS'short_desc'
+p4
+S'There is an impressive, sturdy-looking building with marble arches and large windows.'
+p5
+sS'name'
+p6
+S'Red Castle'
+p7
+sS'exits'
+p8
+(dp9
+S'west'
+p10
+S"The Scholars' Council"
+p11
+sS'east'
+p12
+NsS'north'
+p13
+S'The Labyrinth of Hearts'
+p14
+sS'south'
+p15
+S'The Well'
+p16
+ssS'inside_desc'
+p17
+S"You don't feel wise enough to face this challenge yet. You should come back later."
+p18
+sb.

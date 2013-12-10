@@ -1,0 +1,34 @@
+(iAreaModule
+Area
+p0
+(dp1
+S'long_desc'
+p2
+S'You stand in the hot desert. There is not much of interest here.'
+p3
+sS'short_desc'
+p4
+S'There is a vast expanse of black land, as far as the eye can see.'
+p5
+sS'name'
+p6
+S'Black Desert'
+p7
+sS'exits'
+p8
+(dp9
+S'west'
+p10
+S'Hall of Knowledge'
+p11
+sS'east'
+p12
+NsS'north'
+p13
+NsS'south'
+p14
+S'The Labyrinth of Hearts'
+p15
+ssS'inside_desc'
+p16
+Nsb.

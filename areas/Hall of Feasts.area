@@ -1,0 +1,36 @@
+(iAreaModule
+Area
+p0
+(dp1
+S'long_desc'
+p2
+S'Your appetite flares as you approach the building. Just a few paces lie between you and acts of astounding gluttony, the likes of which would bring shame to your ancestors if they knew.'
+p3
+sS'short_desc'
+p4
+S'The building ahead is short and smells vaguely of burning meat.'
+p5
+sS'name'
+p6
+S'Hall of Feasts'
+p7
+sS'exits'
+p8
+(dp9
+S'west'
+p10
+S'Sku Hill'
+p11
+sS'east'
+p12
+NsS'north'
+p13
+S'The Well'
+p14
+sS'south'
+p15
+NssS'inside_desc'
+p16
+S'You enter the Hall of Feasts and stand in the lobby. The gatekeepers lie between you and the corridor of delicacies.'
+p17
+sb.

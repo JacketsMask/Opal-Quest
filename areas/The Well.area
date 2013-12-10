@@ -1,0 +1,38 @@
+(iAreaModule
+Area
+p0
+(dp1
+S'long_desc'
+p2
+S'This building is massive. Other scholars call it The Well, as illicit drinks can be found here in bountiful amounts.'
+p3
+sS'short_desc'
+p4
+S'The building ahead looks fairly new. It is home to a great number of other pupils.'
+p5
+sS'name'
+p6
+S'The Well'
+p7
+sS'exits'
+p8
+(dp9
+S'west'
+p10
+S'The Chamber of Ceremonies'
+p11
+sS'east'
+p12
+NsS'north'
+p13
+S'Red Castle'
+p14
+sS'south'
+p15
+S'Hall of Feasts'
+p16
+ssS'inside_desc'
+p17
+S'You sneak through the locked door behind another scholar. After looking around, you determine that there is nothing you need in here.'
+p18
+sb.

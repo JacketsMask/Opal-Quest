@@ -1,0 +1,38 @@
+(iAreaModule
+Area
+p0
+(dp1
+S'long_desc'
+p2
+S'You approach the Hall of Knowledge. There is a central entrance leading into the building. Scholars sit in groups outside, drinking brown elixirs to renew their strength and vitality.'
+p3
+sS'short_desc'
+p4
+S'There is a tall, barren building. Great knowledge is held within its walls, but few students are brave enough to traverse the dark corridors.'
+p5
+sS'name'
+p6
+S'Hall of Knowledge'
+p7
+sS'exits'
+p8
+(dp9
+S'west'
+p10
+S'Black Wasteland'
+p11
+sS'east'
+p12
+S'Black Desert'
+p13
+sS'north'
+p14
+NsS'south'
+p15
+S'Field'
+p16
+ssS'inside_desc'
+p17
+S'You enter the Hall of Knowledge. Long corridors extend as far as the eye can see, flanked by shelves of books on either side.'
+p18
+sb.
