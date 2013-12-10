@@ -1,3 +1,5 @@
+#Authored by Melissa Wall and Jacob Dorman
+
 class Area:
 	
 	def __init__(self, name, short_desc, long_desc, north, east, south, west, inside_desc = None):

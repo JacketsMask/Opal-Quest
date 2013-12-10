@@ -1,4 +1,5 @@
-#Created by the anonymous hacker group "We Love Jake"
+#Authored by Melissa Wall and Jacob Dorman
+
 import os
 import sys
 import pickle

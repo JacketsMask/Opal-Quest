@@ -1,3 +1,5 @@
+#Authored by Melissa Wall and Jacob Dorman
+
 from AreaModule import Area
 import sys
 import os
